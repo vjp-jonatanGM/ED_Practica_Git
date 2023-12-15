@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Laura
 The Conjuring
+=======
+Jonatan
+Interestellar
+>>>>>>> 5dc8a9c6d8a0c1c7aebc4c7ea9d71c22204ee420
